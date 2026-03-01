@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment
+.env
+*.env
+.DS_Store
